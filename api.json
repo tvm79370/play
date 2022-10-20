@@ -1,0 +1,1190 @@
+{
+    "_id": "63461192fb395313faacfc1d",
+    "name": "FILL IN THE BLANKS",
+    "slug": "fill-in-the-blanks",
+    "questions": [
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2377",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 501,
+            "question": "She Feared That She __________",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2da0",
+                    "option": 1,
+                    "answer": "Will Fail",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2da1",
+                    "option": 2,
+                    "answer": "May Fail",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2da2",
+                    "option": 3,
+                    "answer": "Might Fail",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2da3",
+                    "option": 4,
+                    "answer": "Would Fail",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2378",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 502,
+            "question": "The Internet May Not ________ Everything We Do, But It Has Already Revolutionised Business And Will Continue To Do So.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2da5",
+                    "option": 1,
+                    "answer": "Mark",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2da6",
+                    "option": 2,
+                    "answer": "Prove",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2da7",
+                    "option": 3,
+                    "answer": "Change",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2da8",
+                    "option": 4,
+                    "answer": "Help",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2379",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 503,
+            "question": "A ____________was Organized By Hill Woods Academy For Teachers And Students Of Delhi And Ncr.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2daa",
+                    "option": 1,
+                    "answer": "Strand",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dab",
+                    "option": 2,
+                    "answer": "Confluence",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dac",
+                    "option": 3,
+                    "answer": "Manifesto",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dad",
+                    "option": 4,
+                    "answer": "Tenet",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f237a",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 504,
+            "question": "Shweta Has ________ In Chennai All Her Life.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2daf",
+                    "option": 1,
+                    "answer": "Lives",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2db0",
+                    "option": 2,
+                    "answer": "Living",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2db1",
+                    "option": 3,
+                    "answer": "Lived",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2db2",
+                    "option": 4,
+                    "answer": "Seeing",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f237b",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 505,
+            "question": "The Thief Explained How He ________ From The Jail",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2db4",
+                    "option": 1,
+                    "answer": "Escapes",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2db5",
+                    "option": 2,
+                    "answer": "Had Escaped",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2db6",
+                    "option": 3,
+                    "answer": "Escaped",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2db7",
+                    "option": 4,
+                    "answer": "Has Escaped",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f237c",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 506,
+            "question": "All The Applicants ________ And The Results Will Be Announced Next Week",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2db9",
+                    "option": 1,
+                    "answer": "Rank",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dba",
+                    "option": 2,
+                    "answer": "Are To Rank",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dbb",
+                    "option": 3,
+                    "answer": "Are To Be Ranked",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dbc",
+                    "option": 4,
+                    "answer": "Are Ranking",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f237d",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 507,
+            "question": "It Is ________ For Everyone To Abide By The Laws Of The Land.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dbe",
+                    "option": 1,
+                    "answer": "Expected",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dbf",
+                    "option": 2,
+                    "answer": "Obligatory",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dc0",
+                    "option": 3,
+                    "answer": "Meant",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dc1",
+                    "option": 4,
+                    "answer": "Optional",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f237e",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 508,
+            "question": "The Ministers Who Were Concerned ________ The Rising Prices Met Every Week.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dc3",
+                    "option": 1,
+                    "answer": "For",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dc4",
+                    "option": 2,
+                    "answer": "Because",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dc5",
+                    "option": 3,
+                    "answer": "Difference",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dc6",
+                    "option": 4,
+                    "answer": "About",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f237f",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 509,
+            "question": "Wheat Is Not Native To India And Barley ________",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dc8",
+                    "option": 1,
+                    "answer": "Isn't Either",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dc9",
+                    "option": 2,
+                    "answer": "Is Either",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dca",
+                    "option": 3,
+                    "answer": "Is Neither",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dcb",
+                    "option": 4,
+                    "answer": "Isn't Neither",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2380",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 510,
+            "question": "Ramappa _______ As The Mayor Of The Town And He Will Assume Charge This Friday",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dcd",
+                    "option": 1,
+                    "answer": "Elects",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dce",
+                    "option": 2,
+                    "answer": "Elected",
+                    "createdAt": "2022-07-11T08:14:24.101Z",
+                    "updatedAt": "2022-07-11T08:14:24.101Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dcf",
+                    "option": 3,
+                    "answer": "Is Elected",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dd0",
+                    "option": 4,
+                    "answer": "Is Electing",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2381",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 511,
+            "question": "Riya _____ Her Matriculation Examination In 2016.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dd2",
+                    "option": 1,
+                    "answer": "Completed",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dd3",
+                    "option": 2,
+                    "answer": "Passed",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dd4",
+                    "option": 3,
+                    "answer": "Obtained",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dd5",
+                    "option": 4,
+                    "answer": "Gathered",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2382",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 512,
+            "question": "Pollution Has An ________ Effect On Health.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dd7",
+                    "option": 1,
+                    "answer": "Intrinsic",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dd8",
+                    "option": 2,
+                    "answer": "Adverse",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dd9",
+                    "option": 3,
+                    "answer": "Inevitable",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dda",
+                    "option": 4,
+                    "answer": "Active",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2383",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 513,
+            "question": "I Have Brought Some Books ________ You To Examine",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2ddc",
+                    "option": 1,
+                    "answer": "To",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2ddd",
+                    "option": 2,
+                    "answer": "For",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dde",
+                    "option": 3,
+                    "answer": "With",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2ddf",
+                    "option": 4,
+                    "answer": "Over",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2384",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 514,
+            "question": "Normally He Is Very ________ In His Behaviour, But On That Occasion He Behaved Very Aggressively.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2de1",
+                    "option": 1,
+                    "answer": "Rude",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2de2",
+                    "option": 2,
+                    "answer": "Obedient",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2de3",
+                    "option": 3,
+                    "answer": "Docile",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2de4",
+                    "option": 4,
+                    "answer": "Intolerant",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2385",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 515,
+            "question": "The Farmer Had ________ Land And Many Servants",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2de6",
+                    "option": 1,
+                    "answer": "Very Little",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2de7",
+                    "option": 2,
+                    "answer": "Some",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2de8",
+                    "option": 3,
+                    "answer": "A Lot Of",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2de9",
+                    "option": 4,
+                    "answer": "Many",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2386",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 516,
+            "question": "The Policymakers Needed To ____________ Over Possible Policy Responses After The Rise In Trade Tensions.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2deb",
+                    "option": 1,
+                    "answer": "Analyzing",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dec",
+                    "option": 2,
+                    "answer": "Decelerate",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2ded",
+                    "option": 3,
+                    "answer": "Concentrated",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dee",
+                    "option": 4,
+                    "answer": "Introspect",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2387",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 517,
+            "question": "Joint Labour Commissioner Promised Action Would Be Taken On All ________ Within A Week.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2df0",
+                    "option": 1,
+                    "answer": "Solutions",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2df1",
+                    "option": 2,
+                    "answer": "Commendation",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2df2",
+                    "option": 3,
+                    "answer": "Acclamation",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2df3",
+                    "option": 4,
+                    "answer": "Grievances",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2388",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 518,
+            "question": "There Have Been Many Philosophers, Scientists, Artists And Politicians Who Claim That They Are ________ Of The World.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2df5",
+                    "option": 1,
+                    "answer": "Beings",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2df6",
+                    "option": 2,
+                    "answer": "Citizens",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2df7",
+                    "option": 3,
+                    "answer": "Peoples",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2df8",
+                    "option": 4,
+                    "answer": "Families",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f2389",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 519,
+            "question": "To Find Out What Her Husband Bought For Her Birthday, Susan Attempted To ______ His Family Members About His Recent Shopping Excursions.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dfa",
+                    "option": 1,
+                    "answer": "Prescribe",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dfb",
+                    "option": 2,
+                    "answer": "Probe",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dfc",
+                    "option": 3,
+                    "answer": "Alienate",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2dfd",
+                    "option": 4,
+                    "answer": "Converge",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f238a",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 520,
+            "question": "I Am Exhausted Let's ________ A Day",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2dff",
+                    "option": 1,
+                    "answer": "Call It",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e00",
+                    "option": 2,
+                    "answer": "Call At",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e01",
+                    "option": 3,
+                    "answer": "Call Off",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e02",
+                    "option": 4,
+                    "answer": "Call In",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f238b",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 521,
+            "question": "I ________ Can’t Make Both Ends ________ On My Small Salary",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2e04",
+                    "option": 1,
+                    "answer": "Meet",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e05",
+                    "option": 2,
+                    "answer": "Unite",
+                    "createdAt": "2022-07-11T08:14:24.102Z",
+                    "updatedAt": "2022-07-11T08:14:24.102Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e06",
+                    "option": 3,
+                    "answer": "Join",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e07",
+                    "option": 4,
+                    "answer": "Touch",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f238c",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 522,
+            "question": "It Is Mainly Due To Peter's Lethargy That The Plan Fell _____.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e09",
+                    "option": 1,
+                    "answer": "Off",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2e0a",
+                    "option": 2,
+                    "answer": "Through",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e0b",
+                    "option": 3,
+                    "answer": "In",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e0c",
+                    "option": 4,
+                    "answer": "Out",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f238d",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 523,
+            "question": "Repetition Bred A Sense Of _____________ With The Characters.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2e0e",
+                    "option": 1,
+                    "answer": "Familiarity",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e0f",
+                    "option": 2,
+                    "answer": "Familiar",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e10",
+                    "option": 3,
+                    "answer": "Familiarly",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e11",
+                    "option": 4,
+                    "answer": "Familiarize",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f238e",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 524,
+            "question": "________ Of Youths And Students Were Beaten And Caned Mercilessly By Policemen In And Around Hyderabad.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e13",
+                    "option": 1,
+                    "answer": "Thousand",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2e14",
+                    "option": 2,
+                    "answer": "Thousands",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e15",
+                    "option": 3,
+                    "answer": "Million",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e16",
+                    "option": 4,
+                    "answer": "Billion",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        },
+        {
+            "quizId": "62cbdb8848e29528cc9e6823",
+            "status": 1,
+            "_id": "62cbdbdf48e29528cc9f238f",
+            "quizName": "FILL IN THE BLANKS",
+            "id": 525,
+            "question": "After Being Given _________ Warnings For Disrupting Class, Thomas Was Finally Sent To The Principal's Office.",
+            "answerOptions": [
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e18",
+                    "option": 1,
+                    "answer": "Singular",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e19",
+                    "option": 2,
+                    "answer": "Lone",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": true,
+                    "_id": "62cbdbdf48e29528cc9f2e1a",
+                    "option": 3,
+                    "answer": "Numerous",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                },
+                {
+                    "isCorrectAnswer": false,
+                    "_id": "62cbdbdf48e29528cc9f2e1b",
+                    "option": 4,
+                    "answer": "unique",
+                    "createdAt": "2022-07-11T08:14:24.103Z",
+                    "updatedAt": "2022-07-11T08:14:24.103Z"
+                }
+            ],
+            "createdAt": "2022-07-11T08:14:24.125Z",
+            "updatedAt": "2022-07-11T08:14:24.125Z",
+            "__v": 0
+        }
+    ],
+    "entryCoins": 50,
+    "winningCoins": 300000,
+    "prizeId": {
+        "_id": "62cbcbfb7e6e64183f02e11d",
+        "name": "50 Coins Entry",
+        "entryCoins": 50,
+        "winningCoins": 300000,
+        "rank": [
+            {
+                "_id": "62cbcbfb7e6e64183f02e11e",
+                "from": 1,
+                "to": 1,
+                "coins": 3500
+            },
+            {
+                "_id": "62cbcbfb7e6e64183f02e11f",
+                "from": 2,
+                "to": 10,
+                "coins": 1500
+            },
+            {
+                "_id": "62cbcbfb7e6e64183f02e120",
+                "from": 11,
+                "to": 50,
+                "coins": 800
+            },
+            {
+                "_id": "62cbcbfb7e6e64183f02e121",
+                "from": 51,
+                "to": 200,
+                "coins": 450
+            },
+            {
+                "_id": "62cbcbfb7e6e64183f02e122",
+                "from": 201,
+                "to": 500,
+                "coins": 220
+            },
+            {
+                "_id": "62cbcbfb7e6e64183f02e123",
+                "from": 501,
+                "to": 1000,
+                "coins": 75
+            },
+            {
+                "_id": "62cbcbfb7e6e64183f02e124",
+                "from": 1001,
+                "to": 5000,
+                "coins": 20
+            }
+        ],
+        "createdAt": "2022-07-11T07:06:35.759Z",
+        "updatedAt": "2022-07-11T07:06:35.759Z",
+        "__v": 0
+    },
+    "quizImage": "fill-in-the-blanks.png",
+    "startTime": "2022-10-12T02:00:01.000Z",
+    "endTime": "2022-10-12T05:00:01.000Z"
+}
